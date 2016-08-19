@@ -1,0 +1,25 @@
+/* Helper Class */
+
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background-color: #ec663c;
+}
+
+.bg-verde {
+  background-color: #47bbb3;
+}
+
+.bg-roxo {
+  background-color: #9c4274;
+}
+
+.bg-azul {
+  background-color: #12b0c5;
+}
+
+.bg-amarelo {
+  background-color: #ff9618;
+}

@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Raleway Light'), local('Raleway-Light'), url(http://fonts.gstatic.com/s/raleway/v11/-_Ctzj9b56b8RgXW8FAriS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(http://fonts.gstatic.com/s/raleway/v11/bIcY3_3JNqUVRAQQRNVteQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(http://fonts.gstatic.com/s/raleway/v11/xkvoNo9fC8O2RDydKj12by3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  background-color: #222222;
+  font-size: 20px;
+  color: white;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
+
+.content {
+  position: relative;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.column, .columns {
+  margin-bottom: 1.5rem;
+}
+
+.widget {
+  padding: 25px 12px;
+  text-align: center;
+  width: 100%;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.widget .titulo {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.header {
+  margin-top: 4rem;
+  text-align: center;
+}
